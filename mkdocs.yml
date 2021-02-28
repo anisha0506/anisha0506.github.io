@@ -3,4 +3,12 @@ nav:
     - Home: index.md
     - About: about.md
     - Blogs: blogs.md
-theme: readthedocs
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.instant
+  favicon: img/favicon.ico
+  logo: img/favicon.ico
+  palette:
+    primary: deep orange   
