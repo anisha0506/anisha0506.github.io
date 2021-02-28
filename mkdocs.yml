@@ -1,0 +1,6 @@
+site_name: Anisha
+nav:
+    - Home: index.md
+    - About: about.md
+    - Blogs: blogs.md
+theme: readthedocs
