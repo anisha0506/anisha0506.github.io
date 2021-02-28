@@ -1,2 +1,1 @@
-# anisha0506.github.io
-Personal profile
+# All About Anisha
