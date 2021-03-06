@@ -2,7 +2,7 @@ site_name: Anisha
 nav:
     - Home: index.md
     - About: about.md
-    - Blogs: blogs.md
+    - My Stories: stories.md
 theme:
   name: material
   custom_dir: overrides
