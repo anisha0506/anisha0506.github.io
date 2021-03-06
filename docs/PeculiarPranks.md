@@ -115,7 +115,9 @@ Me and Mellisa hid behind the two barrels & overheard their conversation.
  
 We will only have students with good grades & we can top Darwin middle school" exclaimed the Principal.
 
-" No more Bad Grades !!" They all cheered. 
+" No more Bad Grades !!" They all cheered.  
+
+![](img/evil.png)
 
 So it was never Danny. It was always the Principal. 
 
