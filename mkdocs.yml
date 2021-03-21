@@ -3,6 +3,7 @@ nav:
     - Home: index.md
     - About: about.md
     - My Stories: stories.md
+    - My Art: art.md
 theme:
   name: material
   custom_dir: overrides

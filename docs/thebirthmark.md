@@ -6,4 +6,4 @@
 
  Early morning while going to take bath, I noticed that my birthmark number 9 shape was 8! At first I thought everything would be fine. But the next second, a thought hit my head, What if, I was cat with 9 lives and transformed into human !!! Everytime I die, birthmark number reduced by 1.
  
-  Now whenever the doctor said I am in fatal position, I would laugh.  I know I have tobe careful, because I only have 9 lives.  So that it my story :)
+  Now whenever the doctor said I am in fatal position, I would laugh.  I know I have to be careful, because I only have 9 lives.  So that it my story :)
