@@ -29,7 +29,7 @@ This is where you can view my art. Drawing is one of my hobbies. (Please note, t
 
 <div class="gallery">
   <a target="_blank" href="/img/art1.JPG">
-    <img src="/img/art1.JPG" alt="Lady Bug" width="600" height="400">
+    <img src="../img/art1.JPG" alt="Lady Bug" width="600" height="400">
   </a>
   <div class="desc">Lady Bug</div>
 </div>
